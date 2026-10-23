@@ -1,0 +1,6 @@
+{
+  "name": "FLOW - Centro de Mensajería & Conciliación Omnicanal",
+  "description": "Plataforma de automatización omnicanal (WhatsApp Cloud & Instagram Graph) con conciliación instantánea de pagos Nequi/PSE, comanda a cocina y sincronización en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
